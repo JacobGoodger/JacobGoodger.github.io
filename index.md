@@ -1,7 +1,7 @@
 
 # Jacob Goodger's Portfolio
 
-I am a computer science major at Cal State Fullerton and I hopefully plan on becoming a software developer with a passion of creating video games. 
+I am a computer science major at Cal State Fullerton and I hopefully plan on becoming a software developer with a hobby of creating video games. 
 
 ## Favorite Labs 
 
