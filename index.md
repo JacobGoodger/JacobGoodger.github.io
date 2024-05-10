@@ -15,4 +15,4 @@ I am a computer science major at Cal State Fullerton and I hopefully plan on bec
 
 * Lab 12
 
-  This project was the last lab we for 120L. This one wasn't as challenging as the rest nor was it as interesting. However, it's the most memorable because I'm able to see how far I was able to come. It taught me that time and effort really does pay off. 
+  This project was the last lab for 120L. This one wasn't as challenging as the rest nor was it as interesting. However, it's the most memorable because I'm able to see how far I was able to come. It taught me that time and effort really does pay off. 
